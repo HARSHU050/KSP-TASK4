@@ -1,0 +1,33 @@
+.demo{
+    color:magenta;
+}
+.s1{
+    padding-left: 15px;
+    color:brown;
+}
+#unique1{
+    color:rgb(146, 128, 104);
+}
+.div1{
+    color:blue;
+    background-color: rgb(232, 169, 206);
+}
+body{
+    background-color:rgb(205, 217, 209);
+}
+.u2{
+    margin:20px;
+    padding:12px;
+    border:3px dashed peru;
+    background-color: cyan;
+}
+.s2{
+    margin:20px 3px 56px 36px;/*by default it takes clockwise direction ie,top right bottom left*/
+}
+img{
+    margin:16px; 
+    padding:50px;
+    border:3px solid pink;
+    background-color: beige;
+    
+}
